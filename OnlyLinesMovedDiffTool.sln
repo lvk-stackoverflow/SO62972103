@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlyLinesMovedDiffTool", "OnlyLinesMovedDiffTool\OnlyLinesMovedDiffTool.csproj", "{8E440FB2-B5D8-43E8-BBF8-0F9BDA98C020}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17085F29-211A-47B1-9B69-CE841AF9FD20}"
+ProjectSection(SolutionItems) = preProject
+	.editorconfig = .editorconfig
+	.gitattributes = .gitattributes
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E440FB2-B5D8-43E8-BBF8-0F9BDA98C020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E440FB2-B5D8-43E8-BBF8-0F9BDA98C020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E440FB2-B5D8-43E8-BBF8-0F9BDA98C020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E440FB2-B5D8-43E8-BBF8-0F9BDA98C020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
